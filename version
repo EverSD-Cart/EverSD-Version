@@ -1,9 +1,9 @@
 {
     "userIP": "",
     "cpuID": "",
-    "curVer": "2.1.1",
-    "availVer": "2.1.1",
+    "curVer": "2.1.2",
+    "availVer": "2.1.3",
     "availURL": "https:\/\/blaze-evercade.com\/.hBblLexW50fBQVQJW0SI\/update.img",
-    "availMD5": "a7b8aacaf0b6ae9641302e14bb1ba593",
+    "availMD5": "e652598b1e4b1a2c09d9b26ed5445c0f",
     "result": "ok"
 }
